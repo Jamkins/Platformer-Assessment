@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="70" height="15" tilewidth="35" tileheight="35" backgroundcolor="#353535" nextobjectid="1">
+ <tileset firstgid="1" name="newstage" tilewidth="70" tileheight="70" spacing="2" margin="2">
+  <image source="tileset.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Backgroundpics" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztkTEKADAIA/3/7A/60e4dWq0Wa8iBiwEJpwghmKhzb80JBrs/32bEz6guQMiCGgYdi4PfvbzoRi/ne928ZHeL+ED1kuGk2k20V6aDTjMByu1rBA==
+  </data>
+ </layer>
+ <layer name="tangible" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DggRCUFsZBi9DXOaNgFAxJMJqPhidAj1ds8ShEhNxQTweMUJp5QF0xCgY7kKWyefJUNm8UDA5ArXQCSh9DtUwdqgA9TxLik1IHkltf4mp/jfS0AQAZhgMC
+  </data>
+ </layer>
+ <layer name="Ladder" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAPgYQaAAB
+  </data>
+ </layer>
+ <layer name="bats" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1VEJAAAIQ8GlsX9EQyiIcJfgwT6WAF/VdQAj9gOAff4V7jUWNABz
+  </data>
+ </layer>
+ <layer name="Exit" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAMA6D6dzOHM9GkDyggAYCNWwcAAKh752YAsg==
+  </data>
+ </layer>
+ <layer name="Coins" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENACAIBED2X4rV7G2kEA3JXfcVJDwRAL3y9wIwgD+hQk/m2m93yjdnAby2APCqBTo=
+  </data>
+ </layer>
+</map>
